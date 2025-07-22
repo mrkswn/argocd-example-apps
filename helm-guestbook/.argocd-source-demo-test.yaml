@@ -1,0 +1,6 @@
+helm:
+  releaseName: demo-test
+  valuesObject:
+    replicaCount: 2
+    service:
+      type: ClusterIP
