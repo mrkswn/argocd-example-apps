@@ -1,6 +1,7 @@
 helm:
   releaseName: demo-uat
-  valuesObject:
-    replicaCount: 5
-    service:
-      type: LoadBalancer
+  parameters:
+    - name: "service.type"
+      value: LoadBalancer
+    - name: "replicaCount"
+      value: "5"
