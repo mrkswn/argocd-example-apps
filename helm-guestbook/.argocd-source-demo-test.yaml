@@ -1,5 +1,5 @@
 helm:
-  releaseName: demo-test
+  releaseName: abc
   parameters:
     - name: "service.type"
       value: ClusterIP
