@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/mrkswn/argocd-example-apps.git",
+  "drySha": "6d15353331b306e78218188a75b6982f9132b500",
+  "author": "mrkswn <mrkswn@amazon.com>",
+  "date": "2025-07-23T00:59:40Z",
+  "subject": "Update .argocd-source-demo-test.yaml"
+}

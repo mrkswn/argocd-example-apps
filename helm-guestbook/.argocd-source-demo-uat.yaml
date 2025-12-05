@@ -1,7 +1,0 @@
-helm:
-  releaseName: demo-uat
-  parameters:
-    - name: "service.type"
-      value: LoadBalancer
-    - name: "replicaCount"
-      value: "5"

@@ -1,7 +1,0 @@
-helm:
-  releaseName: abc
-  parameters:
-    - name: "service.type"
-      value: ClusterIP
-    - name: "replicaCount"
-      value: "2"

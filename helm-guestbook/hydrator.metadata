@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/mrkswn/argocd-example-apps.git",
+  "drySha": "6d15353331b306e78218188a75b6982f9132b500",
+  "commands": [
+    "helm template . --name-template hydrator-guestbook --include-crds"
+  ]
+}
